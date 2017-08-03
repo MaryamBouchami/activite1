@@ -1,0 +1,1 @@
+alert('ceci est un fichier js pour la première activité');
